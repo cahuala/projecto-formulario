@@ -15,7 +15,7 @@ button{
     }
   }
 
-  & .btn-secondary{
+  &.btn-secondary{
     margin-left: auto;
     border: 1px solid var(--text-highlight);
 
